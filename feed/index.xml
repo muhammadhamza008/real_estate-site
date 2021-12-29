@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Real Estate Site</title>
-	<atom:link href="https://https://muhammadhamza008.github.io/real_estate-site/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://muhammadhamza008.github.io/real_estate-site</link>
+	<atom:link href="https://muhammadhamza008.github.io/real_estate-site/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muhammadhamza008.github.io/real_estate-site</link>
 	<description></description>
 	<lastBuildDate>Mon, 27 Dec 2021 21:36:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://https://muhammadhamza008.github.io/real_estate-site/2021/12/27/hello-world/</link>
-					<comments>https://https://muhammadhamza008.github.io/real_estate-site/2021/12/27/hello-world/#comments</comments>
+		<link>https://muhammadhamza008.github.io/real_estate-site/2021/12/27/hello-world/</link>
+					<comments>https://muhammadhamza008.github.io/real_estate-site/2021/12/27/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 27 Dec 2021 21:36:55 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://muhammadhamza008.github.io/real_estate-site/?p=1</guid>
+		<guid isPermaLink="false">https://muhammadhamza008.github.io/real_estate-site/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://muhammadhamza008.github.io/real_estate-site/2021/12/27/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadhamza008.github.io/real_estate-site/2021/12/27/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
